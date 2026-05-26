@@ -111,7 +111,7 @@
       "from_price_html": "From {{ price_min }}"
     },
     "quantity": {
-      "label": "Quantity",
+      "label": "Quantité",
       "increase_quantity": "Increase quantity",
       "decrease_quantity": "Decrease quantity"
     },
