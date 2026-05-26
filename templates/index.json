@@ -284,19 +284,19 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "author": "Sophie M.",
+            "content": "Livraison rapide et rendu encore plus beau en vrai.",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
+            "author": "Julien T.",
+            "content": "Très beau design et ambiance chaleureuse, je recommande.",
+            "show_rating": true,
             "rating": 4
           }
         }
