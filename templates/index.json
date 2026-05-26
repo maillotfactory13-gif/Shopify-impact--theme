@@ -216,8 +216,32 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "title": "98%",
+            "subheading": "Taux de satisfaction",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_iEWcxz": {
+          "type": "item",
+          "settings": {
+            "title": "7/15J",
+            "subheading": "Livraison rapide",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_xtT6eF": {
+          "type": "item",
+          "settings": {
+            "title": "900+",
+            "subheading": "Clients satisfait",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -227,7 +251,9 @@
         }
       },
       "block_order": [
-        "1664424181b38582d5-0"
+        "1664424181b38582d5-0",
+        "item_iEWcxz",
+        "item_xtT6eF"
       ],
       "settings": {
         "full_width": true,
@@ -236,10 +262,10 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_text_color": "#000000",
+        "heading_gradient": "",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
