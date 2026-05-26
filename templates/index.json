@@ -189,7 +189,13 @@
       "name": "Featured collection",
       "settings": {
         "collection": "lampe-minecraft",
-        "products": [],
+        "products": [
+          "lampe-a-levitation-minecraft",
+          "lampe-loup",
+          "sans-titre-25mai_20-24-45",
+          "lampe-abeille",
+          "lampe-renard"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
