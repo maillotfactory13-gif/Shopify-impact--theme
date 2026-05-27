@@ -113,7 +113,11 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "lampe-a-levitation-minecraft",
+          "sans-titre-25mai_20-24-45",
+          "lampe-loup"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
