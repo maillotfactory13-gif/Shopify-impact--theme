@@ -359,22 +359,22 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre service clientèle est disponible du lundi au vendredi : de 8h à 20h30.",
+        "answer_time": "Temps de réponse moyen: 2h",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "accordion_background": "#000000",
+        "accordion_text_color": "#ffffff"
       }
     }
   },
