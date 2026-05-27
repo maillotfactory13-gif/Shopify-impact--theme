@@ -323,29 +323,37 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "💡 Les lampes fonctionnent-elles avec une prise française ?",
+            "content": "<p>Oui, toutes nos lampes sont compatibles avec les prises françaises ou fournies avec un câble USB adapté.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "🔌 Comment alimenter les lampes ?",
+            "content": "<p>Selon le modèle, les lampes fonctionnent via :</p><ul><li>USB</li><li>prise secteur</li><li>ou alimentation intégrée rechargeable</li></ul><p>Les informations sont précisées sur chaque fiche produit.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "🎮 Les lampes gaming changent-elles de couleur ?",
+            "content": "<p>Certaines lampes disposent de plusieurs modes RGB et couleurs réglables.Consultez la description du produit pour connaître les fonctionnalités exactes.</p>"
+          }
+        },
+        "item_7RaFM9": {
+          "type": "item",
+          "settings": {
+            "title": "⭐ Pourquoi choisir Novalamps",
+            "content": "<p>Nous sélectionnons des lampes originales et immersives pensées pour transformer votre espace : setup gaming, chambre, bureau ou décoration d’ambiance.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_7RaFM9"
       ],
       "settings": {
         "full_width": false,
