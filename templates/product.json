@@ -116,12 +116,13 @@
         "products": [
           "lampe-a-levitation-minecraft",
           "sans-titre-25mai_20-24-45",
-          "lampe-loup"
+          "lampe-loup",
+          "lampe-abeille"
         ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_per_row_mobile": "1",
+        "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "Vous aimerez peut-être aussi:",
