@@ -42,9 +42,14 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
+      "14947870889598929745": {
+        "type": "shopify://apps/smartbot/blocks/app-embed/d9407b81-7d3e-4612-91c3-2020086e2073",
+        "disabled": false,
+        "settings": {}
+      },
       "1793219247286972479": {
         "type": "shopify://apps/searchpie-seo-speed/blocks/sb-snippets/29f6c508-9bb9-4e93-9f98-b637b62f3552",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     }
